@@ -7,7 +7,12 @@
     "prepublish": "coffee -c code",
     "test": "echo tested"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/drj11/posixbre.git"
+  },
   "author": "David Jones <drj@pobox.com>",
-  "license": "BSD"
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "c80cc2cf9a6dc5ddc44fcd769d931bb196f18675"
 }
